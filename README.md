@@ -3,12 +3,12 @@
 <title>Zax</title>
 <style>body {background-color: #82E0AA ;}</style>
 <h1  style="font-size:100px" ><center>Zax</center></h1>
-<div style="position:relative;left:0px;top:-75">
+<div style="position:relative;left:0px;top:-75"
 <h2 style="font-size: 20px;"><center>Votre aide artificielle!</center></h2>
 </head>
 <body>
 <nav>
-    <div style = "position:relative; left:10px; top:-100px">
+    <div style = "position:relative; left:10px; top:-105px">
         <a href="./index.html">Page cenrale</a>
         <br>
         <a href="./Zax.html">Parler a Zax!</a>
