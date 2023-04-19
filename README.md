@@ -8,7 +8,7 @@
 </head>
 <body>
 <nav>
-    <div style = "position:relative; left:10px; top:-130px">
+    <div style = "position:relative; left:10px; top:-150px">
         <a href="./index.html">Page cenrale</a>
         <br>
         <a href="./Zax.html">Parler a Zax!</a></div>
