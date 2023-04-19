@@ -11,7 +11,7 @@
     <div style = "position:relative; left:10px; top:-110px">
         <a href="./index.html">Page cenrale</a>
         <br>
-        <a href="./Zax.html">Parler a Zax!</a>
+        <a href="./Zax.html">Parler a Zax!</a></div>
     
 </nav>
 <div style="position:relative;right:-600px; bottom:-50px;"><img src="Zax2filled.png" width="400" alt="Zax2filled" /></div>
