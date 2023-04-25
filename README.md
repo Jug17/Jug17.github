@@ -9,7 +9,7 @@
 <body>
 <nav>
     <div style = "position:relative; left:10px; top:-200px">
-        <a href="./index.html">Page cenrale</a>
+        <a href="./index.html">Page centrale</a>
         <br>
         <a href="./Zax.html">Parler a Zax!</a></div>
     
