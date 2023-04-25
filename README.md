@@ -14,6 +14,6 @@
         <a href="./Zax.html">Parler a Zax!</a></div>
     
 </nav>
-<div style="position:relative;right:100px; bottom:-50px;"><img src="Zax2filled.png" width="400" alt="Zax2filled" /></div>
+<div style="position:relative;right:500px; bottom:-50px;"><img src="Zax2filled.png" width="400" alt="Zax2filled" /></div>
 </body>
 </html>
