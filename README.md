@@ -3,7 +3,7 @@
 <title>Zax</title>
 <style>body {background-color: #82E0AA ;}</style>
 <h1  style="font-size:100px" ><center>Zax</center></h1>
-<div style="position:relative;left:0px;top:-75px">
+<div style="position:relative;left:10px;top:-75px">
     <h2 style="font-size: 20px;"><center>Votre aide artificielle!</center></h2></div>
 </head>
 <body>
